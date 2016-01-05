@@ -1,0 +1,9 @@
+version: 0.0
+os: linux
+files:
+   - source: /
+     destination: /home/vtermina/public_html
+#hooks:
+#   AfterInstall:
+#    - location: script/run.sh
+#      runas: root
