@@ -1,7 +1,7 @@
 version: 0.0
 os: linux
 files:
-   - source: /
+   - source: ./main/
      destination: /home/vtermina/public_html
 #hooks:
 #   AfterInstall:
